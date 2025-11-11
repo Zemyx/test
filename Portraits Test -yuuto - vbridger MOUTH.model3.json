@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Portraits Test -yuuto - vbridger MOUTH.moc3",
+		"Textures": [
+			"Portraits Test -yuuto - vbridger MOUTH.4096/texture_00.png"
+		],
+		"Physics": "Portraits Test -yuuto - vbridger MOUTH.physics3.json",
+		"DisplayInfo": "Portraits Test -yuuto - vbridger MOUTH.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
