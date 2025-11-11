@@ -8,9 +8,9 @@
 		"Physics": "Portraits Test -yuuto - vbridger MOUTH.physics3.json",
 		"DisplayInfo": "Portraits Test -yuuto - vbridger MOUTH.cdi3.json",
 		"Motions": {
-	      "Idle neutral": {"File": "motions/Idle neutral.motion3.json"},
-		  "Idle positive": {"File": "motions/Idle positive.motion3.json"},
-		  "Idle negative": {"File": "motions/Idle negative.motion3.json"},
+	    	"Idle neutral": {"File": "motions/Idle neutral.motion3.json"},
+			"Idle positive": {"File": "motions/Idle positive.motion3.json"},
+			"Idle negative": {"File": "motions/Idle negative.motion3.json"}
 	    }
 	},
 	"Groups": [
